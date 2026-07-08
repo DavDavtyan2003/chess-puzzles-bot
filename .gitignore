@@ -1,0 +1,5 @@
+lichess_db_puzzle.csv.zst
+current_puzzle.png
+current_puzzle.svg
+__pycache__/
+*.pyc
