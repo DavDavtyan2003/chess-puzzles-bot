@@ -2002,14 +2002,14 @@
       1943,
       1228
     ],
-    "position": 6,
+    "position": 7,
     "last_puzzle": {
-      "fen": "3r4/1b6/2p1N1k1/p1P3PP/P1B1p3/8/3p4/6K1 b - - 0 39",
-      "first_move": "g6h5",
+      "fen": "8/4B3/p3K1k1/6p1/P2P1pP1/5n2/8/8 w - - 0 59",
+      "first_move": "d4d5",
       "solution_moves": [
-        "c4e2",
-        "h5g6",
-        "e6d8"
+        "f3d4",
+        "e6e5",
+        "f4f3"
       ]
     }
   }
