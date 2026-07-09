@@ -4018,16 +4018,14 @@
       1434,
       893
     ],
-    "position": 2,
+    "position": 3,
     "last_puzzle": {
-      "fen": "8/6p1/N1P1k2p/1p6/1P6/1n5P/6P1/6K1 w - - 1 35",
-      "first_move": "a6c5",
+      "fen": "2kr2nr/Qpq4p/p2bpp2/3p4/5P1N/2N5/P2P2PP/R1B2RK1 w - - 1 17",
+      "first_move": "a1b1",
       "solution_moves": [
-        "b3c5",
-        "c6c7",
-        "e6d7",
-        "c7c8q",
-        "d7c8"
+        "d6c5",
+        "a7c5",
+        "c7c5"
       ]
     }
   },
@@ -6034,14 +6032,14 @@
       812,
       827
     ],
-    "position": 2,
+    "position": 3,
     "last_puzzle": {
-      "fen": "6r1/1p6/p4Qpk/P1qr1p1p/4p2P/1P4R1/6P1/5R1K b - - 0 35",
-      "first_move": "e4e3",
+      "fen": "3r2k1/1p1r1ppp/8/3nQ3/7P/2B1P1q1/PPP3P1/2KR3R b - - 4 22",
+      "first_move": "d5c3",
       "solution_moves": [
-        "g3g6",
-        "g8g6",
-        "f6h8"
+        "d1d7",
+        "c3e2",
+        "c1b1"
       ]
     }
   },
@@ -8048,14 +8046,14 @@
       483,
       1484
     ],
-    "position": 2,
+    "position": 3,
     "last_puzzle": {
-      "fen": "r2q1rk1/ppp2ppp/3p4/2b1p2n/2BnP1b1/P1NP4/1PPQNPPP/R1B2R1K w - - 9 10",
-      "first_move": "c4a2",
+      "fen": "r2q1rk1/4bppp/p1npbn2/1p1Np3/4P3/1B2BN2/PPP2PPP/R2Q1RK1 b - - 1 12",
+      "first_move": "c6a5",
       "solution_moves": [
-        "d4f3",
-        "g2f3",
-        "g4f3"
+        "e3b6",
+        "d8b6",
+        "d5b6"
       ]
     }
   },
@@ -10062,20 +10060,18 @@
       1756,
       449
     ],
-    "position": 2,
+    "position": 3,
     "last_puzzle": {
-      "fen": "2r4k/p5r1/b2qpR1N/8/3p4/P3P3/2Q3PP/R5K1 w - - 1 30",
-      "first_move": "h6f7",
+      "fen": "8/5p1p/6p1/p1P1k3/6P1/1Q3P2/3q4/1K6 b - - 2 47",
+      "first_move": "d2b4",
       "solution_moves": [
-        "g7f7",
-        "f6h6",
-        "h8g8",
-        "c2g6",
-        "g8f8",
-        "g6g5",
-        "f8e8",
-        "h6h8",
-        "e8d7"
+        "f3f4",
+        "b4f4",
+        "b3b8",
+        "e5e4",
+        "b8f4",
+        "e4f4",
+        "c5c6"
       ]
     }
   }
