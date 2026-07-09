@@ -5,13 +5,17 @@ import io
 import random
 
 INPUT_FILE = "lichess_db_puzzle.csv.zst"
-OUTPUT_FILE = "puzzles/intermediate.json"
-MIN_RATING = 1400
-MAX_RATING = 1800
-TARGET_COUNT = 2000  # how many puzzles to keep for this tier
+
+TIERS = {
+    "nivel1": {"min": 800, "max": 1200},
+    "nivel2": {"min": 1400, "max": 1800},
+    "nivel3": {"min": 1800, "max": 2200},
+    "nivel4": {"min": 2200, "max": 2600},
+}
+TARGET_COUNT = 2000
 
 def main():
-    matches = []
+    buckets = {name: [] for name in TIERS}
 
     with open(INPUT_FILE, "rb") as fh:
         dctx = zstd.ZstdDecompressor()
@@ -21,24 +25,24 @@ def main():
 
             for row in csv_reader:
                 rating = int(row["Rating"])
-                if MIN_RATING <= rating <= MAX_RATING:
-                    matches.append({
-                        "id": row["PuzzleId"],
-                        "fen": row["FEN"],
-                        "moves": row["Moves"].split(" "),
-                        "rating": rating,
-                        "themes": row["Themes"]
-                    })
+                entry = {
+                    "id": row["PuzzleId"],
+                    "fen": row["FEN"],
+                    "moves": row["Moves"].split(" "),
+                    "rating": rating,
+                    "themes": row["Themes"]
+                }
+                for name, bounds in TIERS.items():
+                    if bounds["min"] <= rating <= bounds["max"]:
+                        buckets[name].append(entry)
 
-    print(f"Found {len(matches)} puzzles in range {MIN_RATING}-{MAX_RATING}")
-
-    random.shuffle(matches)
-    selected = matches[:TARGET_COUNT]
-
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as out:
-        json.dump(selected, out, indent=2)
-
-    print(f"Saved {len(selected)} puzzles to {OUTPUT_FILE}")
+    for name, matches in buckets.items():
+        random.shuffle(matches)
+        selected = matches[:TARGET_COUNT]
+        out_path = f"puzzles/{name}.json"
+        with open(out_path, "w", encoding="utf-8") as out:
+            json.dump(selected, out, indent=2)
+        print(f"{name}: found {len(matches)}, saved {len(selected)} to {out_path}")
 
 if __name__ == "__main__":
     main()

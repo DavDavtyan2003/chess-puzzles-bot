@@ -26,7 +26,10 @@ jobs:
       - name: Run puzzle bot
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          NIVEL1_CHAT_ID: ${{ secrets.NIVEL1_CHAT_ID }}
           INTERMEDIATE_CHAT_ID: ${{ secrets.INTERMEDIATE_CHAT_ID }}
+          NIVEL3_CHAT_ID: ${{ secrets.NIVEL3_CHAT_ID }}
+          NIVEL4_CHAT_ID: ${{ secrets.NIVEL4_CHAT_ID }}
         run: python bot.py
 
       - name: Commit updated state
