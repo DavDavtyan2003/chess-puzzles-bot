@@ -1,5 +1,8 @@
 lichess_db_puzzle.csv.zst
 current_puzzle.png
-current_puzzle.svg
+current_nivel1.png
+current_nivel2.png
+current_nivel3.png
+current_nivel4.png
 __pycache__/
 *.pyc
