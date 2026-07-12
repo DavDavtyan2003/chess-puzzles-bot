@@ -28,13 +28,17 @@ def save_json(path, data):
 
 def send_message(chat_id, text):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
-    requests.post(url, data={"chat_id": chat_id, "text": text})
+    response = requests.post(url, data={"chat_id": chat_id, "text": text})
+    if not response.ok:
+        print(f"[ERROR] send_message to {chat_id} failed: {response.status_code} {response.text}")
 
 
 def send_photo(chat_id, image_path, caption):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto"
     with open(image_path, "rb") as img:
-        requests.post(url, data={"chat_id": chat_id, "caption": caption}, files={"photo": img})
+        response = requests.post(url, data={"chat_id": chat_id, "caption": caption}, files={"photo": img})
+    if not response.ok:
+        print(f"[ERROR] send_photo to {chat_id} failed: {response.status_code} {response.text}")
 
 
 def render_puzzle(fen, first_move_uci, out_path):
