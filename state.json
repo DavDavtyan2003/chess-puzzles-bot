@@ -4018,14 +4018,14 @@
       1434,
       893
     ],
-    "position": 15,
+    "position": 16,
     "last_puzzle": {
-      "fen": "2k4r/2r2p2/p3ppp1/1p1p4/PR6/2P1P3/2P2PPP/1R4K1 b - - 0 20",
-      "first_move": "b5a4",
+      "fen": "r3r1k1/pbqn1ppp/3b4/1P1p4/P1p3n1/2N1PN2/3B1PPP/R2QRBK1 w - - 1 18",
+      "first_move": "h2h3",
       "solution_moves": [
-        "b4b8",
-        "c8d7",
-        "b8h8"
+        "d6h2",
+        "f3h2",
+        "c7h2"
       ]
     }
   },
@@ -6032,18 +6032,14 @@
       812,
       827
     ],
-    "position": 15,
+    "position": 16,
     "last_puzzle": {
-      "fen": "2k3r1/ppp1q1r1/5p2/7p/2RP2n1/2Q2N2/PPR3PP/6K1 w - - 5 27",
-      "first_move": "h2h3",
+      "fen": "6k1/6p1/5pqP/8/2p4P/1p3NK1/1Q6/8 w - - 3 54",
+      "first_move": "g3f2",
       "solution_moves": [
-        "g4e3",
-        "c4c7",
-        "e7c7",
-        "c3c7",
-        "g7c7",
-        "c2c7",
-        "c8c7"
+        "g6c2",
+        "b2c2",
+        "b3c2"
       ]
     }
   },
@@ -8050,16 +8046,16 @@
       483,
       1484
     ],
-    "position": 15,
+    "position": 16,
     "last_puzzle": {
-      "fen": "r1b3rk/b3n1p1/p1nN1p1p/4pP1N/4q1Q1/pPP5/P5PP/3R1R1K b - - 1 24",
-      "first_move": "e4c2",
+      "fen": "8/8/8/8/5p1k/2K2P2/8/8 w - - 1 54",
+      "first_move": "c3d3",
       "solution_moves": [
-        "d6f7",
-        "h8h7",
-        "g4g7",
-        "g8g7",
-        "h5f6"
+        "h4h3",
+        "d3d4",
+        "h3g2",
+        "d4e4",
+        "g2g3"
       ]
     }
   },
@@ -10066,14 +10062,16 @@
       1756,
       449
     ],
-    "position": 15,
+    "position": 16,
     "last_puzzle": {
-      "fen": "6k1/6p1/3Pp2p/1p1rP3/3R2PP/p3K3/6P1/8 b - - 1 41",
-      "first_move": "d5e5",
+      "fen": "r3k2r/pp2ppbp/1q1p1np1/3Nn3/4P1b1/1N6/PPP1BPPP/R1BQ1RK1 b kq - 5 11",
+      "first_move": "b6c6",
       "solution_moves": [
-        "e3f4",
-        "a3a2",
-        "d6d7"
+        "d5f6",
+        "g7f6",
+        "e2g4",
+        "e5g4",
+        "d1g4"
       ]
     }
   }
