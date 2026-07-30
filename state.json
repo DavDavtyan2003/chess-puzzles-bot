@@ -4018,12 +4018,16 @@
       1434,
       893
     ],
-    "position": 24,
+    "position": 25,
     "last_puzzle": {
-      "fen": "1n1qr3/2p3k1/5n1b/2Pp4/3PNp1p/P1N4P/Q4PPB/4R1K1 w - - 1 31",
-      "first_move": "e4f6",
+      "fen": "2kr2nB/p1p2p1p/2p5/4N3/3b2b1/1P6/P5PP/R4K1R w - - 0 19",
+      "first_move": "e5g4",
       "solution_moves": [
-        "e8e1"
+        "d4a1",
+        "h8a1",
+        "d8d1",
+        "f1e2",
+        "d1h1"
       ]
     }
   },
@@ -6030,16 +6034,14 @@
       812,
       827
     ],
-    "position": 24,
+    "position": 25,
     "last_puzzle": {
-      "fen": "1r4k1/R2bbppp/2q1p3/4P3/1p1PNN2/2p1B2P/2Q2PP1/6K1 w - - 1 27",
-      "first_move": "e4c5",
+      "fen": "3r1rk1/4qp1p/1p1n2p1/p1pB4/6R1/P1Q4R/1PP2PPP/6K1 b - - 7 27",
+      "first_move": "d6e4",
       "solution_moves": [
-        "e7c5",
-        "d4c5",
-        "b4b3",
-        "c2c3",
-        "b3b2"
+        "g4g6",
+        "h7g6",
+        "c3h8"
       ]
     }
   },
@@ -8046,18 +8048,16 @@
       483,
       1484
     ],
-    "position": 24,
+    "position": 25,
     "last_puzzle": {
-      "fen": "8/6p1/2P5/3Kp1k1/5r1p/2R5/8/8 b - - 0 47",
-      "first_move": "g5g4",
+      "fen": "3qr2k/5Q1p/p5P1/2r1b3/3p2P1/3R3P/6B1/5R1K b - - 0 33",
+      "first_move": "h7g6",
       "solution_moves": [
-        "c3c4",
-        "g4g3",
-        "c4f4",
-        "e5f4",
-        "c6c7",
-        "f4f3",
-        "c7c8q"
+        "f7g6",
+        "e5g7",
+        "g2e4",
+        "e8e4",
+        "g6e4"
       ]
     }
   },
@@ -10064,16 +10064,16 @@
       1756,
       449
     ],
-    "position": 24,
+    "position": 25,
     "last_puzzle": {
-      "fen": "Q7/1P3pkp/8/B5p1/3b4/5qPP/7K/5B2 w - - 1 43",
-      "first_move": "f1g2",
+      "fen": "4r1k1/pp3p1p/4p1pP/2p3Q1/5R2/8/PPPq2P1/6K1 b - - 3 27",
+      "first_move": "d2e1",
       "solution_moves": [
-        "f3d1",
-        "a8f8",
-        "g7f8",
-        "b7b8q",
-        "f8g7"
+        "g1h2",
+        "e1e3",
+        "g5f6",
+        "e3f4",
+        "f6f4"
       ]
     }
   }
