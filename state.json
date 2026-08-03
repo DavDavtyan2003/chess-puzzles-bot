@@ -4018,14 +4018,12 @@
       1434,
       893
     ],
-    "position": 28,
+    "position": 29,
     "last_puzzle": {
-      "fen": "5R2/8/1P6/2k4K/7P/1r3p2/8/8 b - - 1 54",
-      "first_move": "c5b6",
+      "fen": "r2q1rk1/pp3p1p/2n3pQ/1Np1p3/2Pb4/7R/PP2N1PP/3R3K b - - 3 19",
+      "first_move": "d8f6",
       "solution_moves": [
-        "f8b8",
-        "b6c7",
-        "b8b3"
+        "h6h7"
       ]
     }
   },
@@ -6032,16 +6030,14 @@
       812,
       827
     ],
-    "position": 28,
+    "position": 29,
     "last_puzzle": {
-      "fen": "3r1rk1/pp3ppp/2p1b3/4n3/3NP3/2P1QB2/qP4PP/1R3RK1 b - - 0 20",
-      "first_move": "e6c4",
+      "fen": "1k6/p5p1/1n2R1bp/2bp4/1p4QP/8/Pq3PP1/4R1K1 w - - 2 30",
+      "first_move": "g4g6",
       "solution_moves": [
-        "b1a1",
-        "a2b2",
-        "f1b1",
-        "b2b1",
-        "a1b1"
+        "b2f2",
+        "g1h2",
+        "f2h4"
       ]
     }
   },
@@ -8048,14 +8044,14 @@
       483,
       1484
     ],
-    "position": 28,
+    "position": 29,
     "last_puzzle": {
-      "fen": "1r2k1r1/5p2/pq5p/1ppPR3/2P5/1P4Pb/P4P2/R2Q2K1 b - - 0 23",
-      "first_move": "e8d7",
+      "fen": "8/p4k2/8/1p5P/1P4R1/5P2/3q1BK1/8 b - - 4 64",
+      "first_move": "d2d5",
       "solution_moves": [
-        "d1h5",
-        "b6f6",
-        "h5h3"
+        "h5h6",
+        "d5d3",
+        "g4g7"
       ]
     }
   },
@@ -10062,16 +10058,14 @@
       1756,
       449
     ],
-    "position": 28,
+    "position": 29,
     "last_puzzle": {
-      "fen": "8/R4kpp/4p3/p2bB3/8/5P2/r5PP/6K1 b - - 3 36",
-      "first_move": "f7g6",
+      "fen": "5r2/6pk/1pRP3p/p2n4/7P/R3Pb2/PP1K4/8 b - - 0 36",
+      "first_move": "d5e3",
       "solution_moves": [
-        "g2g4",
-        "g6h6",
-        "a7g7",
-        "a2e2",
-        "e5f6"
+        "c6c1",
+        "e3g2",
+        "a3f3"
       ]
     }
   }
