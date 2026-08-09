@@ -4018,14 +4018,12 @@
       1434,
       893
     ],
-    "position": 34,
+    "position": 35,
     "last_puzzle": {
-      "fen": "r3Q2k/ppp3pp/3q4/1b1PN3/4n3/1B6/PP3PPP/R2R2K1 b - - 0 21",
-      "first_move": "a8e8",
+      "fen": "r2q1r2/4b1k1/2p2n2/p2p1P2/1p1P1B2/3B4/PPP3Q1/1K5R b - - 1 27",
+      "first_move": "g7f7",
       "solution_moves": [
-        "e5f7",
-        "h8g8",
-        "f7d6"
+        "g2g6"
       ]
     }
   },
@@ -6032,14 +6030,16 @@
       812,
       827
     ],
-    "position": 34,
+    "position": 35,
     "last_puzzle": {
-      "fen": "3r4/pp4kp/6p1/3p2Q1/2p2P1P/2P5/PPq5/4R2K b - - 0 30",
-      "first_move": "d8f8",
+      "fen": "8/3bk2r/4p3/pPpn1pn1/6Nq/3PP1N1/1Q2BPP1/R1R3K1 w - - 2 31",
+      "first_move": "g4e5",
       "solution_moves": [
-        "e1e7",
-        "f8f7",
-        "g5e5"
+        "h4h2",
+        "g1f1",
+        "h2h1",
+        "g3h1",
+        "h7h1"
       ]
     }
   },
@@ -8046,14 +8046,16 @@
       483,
       1484
     ],
-    "position": 34,
+    "position": 35,
     "last_puzzle": {
-      "fen": "1r4k1/p5pp/2P1p3/1b2Np2/5P2/2Q3P1/P5q1/2K1R3 b - - 0 28",
-      "first_move": "g2a2",
+      "fen": "4R3/6Pk/6rP/8/4Pp2/5P2/4n1K1/8 w - - 3 57",
+      "first_move": "g2h3",
       "solution_moves": [
-        "c6c7",
-        "b8c8",
-        "e1d1"
+        "e2g1",
+        "h3h4",
+        "g1f3",
+        "h4h5",
+        "g6g5"
       ]
     }
   },
@@ -10060,28 +10062,16 @@
       1756,
       449
     ],
-    "position": 34,
+    "position": 35,
     "last_puzzle": {
-      "fen": "8/8/3R4/1r2p1k1/4Pp2/8/5KP1/8 w - - 0 45",
-      "first_move": "d6d5",
+      "fen": "8/8/4p3/3pBbP1/p1pP1K2/P1P5/1Pk5/8 w - - 2 47",
+      "first_move": "g5g6",
       "solution_moves": [
-        "b5d5",
-        "e4d5",
-        "e5e4",
-        "g2g3",
-        "f4f3",
-        "g3g4",
-        "g5f6",
-        "f2e3",
-        "f6e5",
-        "g4g5",
-        "e5d5",
-        "g5g6",
-        "d5e6",
+        "c2b2",
         "g6g7",
-        "e6f7",
-        "g7g8r",
-        "f7g8"
+        "f5h7",
+        "e5d6",
+        "b2c3"
       ]
     }
   }
