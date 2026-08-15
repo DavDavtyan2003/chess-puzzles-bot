@@ -4018,14 +4018,12 @@
       1434,
       893
     ],
-    "position": 40,
+    "position": 41,
     "last_puzzle": {
-      "fen": "1R6/4r1k1/R7/2p3Pp/2B1b2P/2bp4/4p2K/8 b - - 0 44",
-      "first_move": "e2e1q",
+      "fen": "5rk1/1bq2pp1/1p6/6rp/4p3/PB2Nn1P/1BP2PR1/R3Q2K w - - 1 31",
+      "first_move": "g2g5",
       "solution_moves": [
-        "b8g8",
-        "g7h7",
-        "a6h6"
+        "c7h2"
       ]
     }
   },
@@ -6032,14 +6030,14 @@
       812,
       827
     ],
-    "position": 40,
+    "position": 41,
     "last_puzzle": {
-      "fen": "4r3/5k1p/1pp3p1/5p2/1PPP4/p2n1KPP/P3NP2/1R6 w - - 5 35",
-      "first_move": "e2f4",
+      "fen": "1rnq2k1/p2R2p1/6Np/1P1pN3/3P1RP1/7P/r7/6K1 b - - 4 33",
+      "first_move": "d8d7",
       "solution_moves": [
-        "d3e1",
-        "b1e1",
-        "e8e1"
+        "f4f8",
+        "g8h7",
+        "f8h8"
       ]
     }
   },
@@ -8046,22 +8044,14 @@
       483,
       1484
     ],
-    "position": 40,
+    "position": 41,
     "last_puzzle": {
-      "fen": "r5r1/p4Q2/2b1p2k/3pP1q1/8/pP4N1/5KP1/R7 b - - 1 32",
-      "first_move": "a8f8",
+      "fen": "3r2nk/p7/1p3q1p/5NpQ/4p3/6P1/P5PP/5R1K b - - 0 37",
+      "first_move": "d8d5",
       "solution_moves": [
-        "a1h1",
-        "g5h4",
-        "h1h4",
-        "h6g5",
-        "h4h5",
-        "g5g4",
-        "f7f3",
-        "f8f3",
-        "g2f3",
-        "g4f4",
-        "g3e2"
+        "f5e3",
+        "f6e6",
+        "e3d5"
       ]
     }
   },
@@ -10068,22 +10058,14 @@
       1756,
       449
     ],
-    "position": 40,
+    "position": 41,
     "last_puzzle": {
-      "fen": "1r4k1/3Qppbp/p5p1/qr2p2n/2p5/P1P4P/1PB2PPB/1R1R2K1 b - - 1 23",
-      "first_move": "b5b2",
+      "fen": "4nrk1/pp5p/3p2p1/2p3r1/2P3N1/P1P1RP1P/6P1/R5K1 b - - 1 26",
+      "first_move": "h7h5",
       "solution_moves": [
-        "b1b2",
-        "b8b2",
-        "d7e8",
-        "g7f8",
-        "d1d8",
-        "a5d8",
-        "e8d8",
-        "b2c2",
-        "h2e5",
-        "c2c1",
-        "g1h2"
+        "h3h4",
+        "g5g4",
+        "f3g4"
       ]
     }
   }
