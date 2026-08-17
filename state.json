@@ -4018,14 +4018,16 @@
       1434,
       893
     ],
-    "position": 42,
+    "position": 43,
     "last_puzzle": {
-      "fen": "8/8/3k4/p2p3p/P2K2p1/4P1P1/5P2/8 w - - 4 53",
-      "first_move": "e3e4",
+      "fen": "2r3k1/1b2bp2/p1q1p2p/1p1rP1pN/2p5/P3P2Q/1PB2PPP/2RR2K1 w - - 2 28",
+      "first_move": "c2e4",
       "solution_moves": [
-        "d5e4",
-        "d4e4",
-        "d6c5"
+        "d5d1",
+        "c1d1",
+        "c6e4",
+        "h5f6",
+        "e7f6"
       ]
     }
   },
@@ -6032,16 +6034,14 @@
       812,
       827
     ],
-    "position": 42,
+    "position": 43,
     "last_puzzle": {
-      "fen": "2r5/1p3p1k/7P/5p2/4p2R/R2n4/1P4P1/1K6 w - - 0 32",
-      "first_move": "a3c3",
+      "fen": "8/8/7k/2b5/1p4p1/4q3/1B4B1/5R1K b - - 1 54",
+      "first_move": "b4b3",
       "solution_moves": [
-        "c8c3",
-        "b2c3",
-        "e4e3",
-        "h4h1",
-        "e3e2"
+        "b2c1",
+        "e3c1",
+        "f1c1"
       ]
     }
   },
@@ -8048,18 +8048,18 @@
       483,
       1484
     ],
-    "position": 42,
+    "position": 43,
     "last_puzzle": {
-      "fen": "5r2/4bp2/4p2p/2k1P1p1/1pPp4/3K1R1P/1B3PP1/8 b - - 3 34",
-      "first_move": "b4b3",
+      "fen": "8/6p1/5pK1/5P2/2p2k2/2PbN2P/8/8 w - - 3 47",
+      "first_move": "g6g7",
       "solution_moves": [
-        "b2a3",
-        "c5c6",
-        "a3e7",
-        "f8b8",
-        "e7a3",
-        "b3b2",
-        "a3b2"
+        "f4e3",
+        "g7f6",
+        "e3f4",
+        "f6e6",
+        "d3f5",
+        "e6d5",
+        "f5d3"
       ]
     }
   },
@@ -10066,14 +10066,16 @@
       1756,
       449
     ],
-    "position": 42,
+    "position": 43,
     "last_puzzle": {
-      "fen": "r6r/3kb2P/p2p1qQ1/5P2/1p2bN2/4B3/PP5P/K1R4R b - - 1 28",
-      "first_move": "e4h1",
+      "fen": "6r1/p6p/b1Q1k2r/3pp3/8/5PP1/P1P2q1P/R5RK b - - 2 27",
+      "first_move": "e6f5",
       "solution_moves": [
-        "c1h1",
-        "f6g6",
-        "f5g6"
+        "c6h6",
+        "f2f3",
+        "g1g2",
+        "a6f1",
+        "g3g4"
       ]
     }
   }
