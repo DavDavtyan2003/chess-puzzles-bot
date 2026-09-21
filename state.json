@@ -4018,14 +4018,14 @@
       1434,
       893
     ],
-    "position": 77,
+    "position": 78,
     "last_puzzle": {
-      "fen": "5r1k/5pp1/Q2p4/4p3/1p2B3/5N1P/1P3PP1/2q3K1 w - - 0 32",
-      "first_move": "g1h2",
+      "fen": "3r2k1/p5bp/3Bp1p1/2N4n/8/2P1P3/PP2K3/3R4 b - - 2 24",
+      "first_move": "h5g3",
       "solution_moves": [
-        "c1f4",
-        "h2g1",
-        "f4e4"
+        "d6g3",
+        "d8d1",
+        "e2d1"
       ]
     }
   },
@@ -6032,14 +6032,18 @@
       812,
       827
     ],
-    "position": 77,
+    "position": 78,
     "last_puzzle": {
-      "fen": "5rk1/1pp2ppp/p1p2P2/2B5/4q3/5R1P/PPP3P1/3R2K1 b - - 0 19",
-      "first_move": "f8e8",
+      "fen": "3q4/2p5/2kp4/4p3/p1K1P1P1/P2P4/1P4Q1/8 w - - 1 41",
+      "first_move": "g4g5",
       "solution_moves": [
-        "f3e3",
-        "e4e3",
-        "c5e3"
+        "d8g8",
+        "c4c3",
+        "g8b3",
+        "c3d2",
+        "b3b2",
+        "d2e3",
+        "b2g2"
       ]
     }
   },
@@ -8046,16 +8050,16 @@
       483,
       1484
     ],
-    "position": 77,
+    "position": 78,
     "last_puzzle": {
-      "fen": "4rr2/ppp3kp/2n1b1p1/2b5/8/2P1BQ2/PPP2P1P/3R1KR1 w - - 10 18",
-      "first_move": "f3g3",
+      "fen": "8/4pp2/1k1p3p/3P3P/p1P2Pp1/6P1/PK6/8 w - - 3 41",
+      "first_move": "b2a3",
       "solution_moves": [
-        "c5e3",
-        "g3e3",
-        "e6c4",
-        "f1g2",
-        "e8e3"
+        "b6a5",
+        "f4f5",
+        "f7f6",
+        "a3b2",
+        "a5b4"
       ]
     }
   },
@@ -10062,20 +10066,14 @@
       1756,
       449
     ],
-    "position": 77,
+    "position": 78,
     "last_puzzle": {
-      "fen": "8/1p6/3k1p1p/4pK2/6PP/P7/1P6/8 w - - 1 48",
-      "first_move": "f5f6",
+      "fen": "r4r1k/1pN5/3p4/p2Pp3/1P2Pq1P/P4P2/4Q1K1/5R2 w - - 0 34",
+      "first_move": "c7a8",
       "solution_moves": [
-        "e5e4",
-        "g4g5",
-        "e4e3",
-        "g5g6",
-        "e3e2",
-        "g6g7",
-        "e2e1q",
-        "g7g8q",
-        "e1h4"
+        "f4h4",
+        "g2g1",
+        "f8g8"
       ]
     }
   }
