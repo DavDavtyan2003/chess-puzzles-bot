@@ -4018,14 +4018,16 @@
       1434,
       893
     ],
-    "position": 97,
+    "position": 98,
     "last_puzzle": {
-      "fen": "8/5k2/p2p4/2pP2q1/2Pb1pN1/P3pQ1P/6P1/7K b - - 1 47",
-      "first_move": "g5f5",
+      "fen": "1k2r3/pp1q1pp1/3b3p/2r5/5P2/2P1B2P/PP1Q2P1/4RRK1 w - - 0 23",
+      "first_move": "e3c5",
       "solution_moves": [
-        "g4h6",
-        "f7e8",
-        "h6f5"
+        "d6c5",
+        "g1h1",
+        "d7d2",
+        "e1e8",
+        "b8c7"
       ]
     }
   },
@@ -6032,18 +6034,16 @@
       812,
       827
     ],
-    "position": 97,
+    "position": 98,
     "last_puzzle": {
-      "fen": "6k1/ppB4p/6p1/2pP3n/2P1R2b/1P3p1P/P7/6K1 w - - 0 38",
-      "first_move": "d5d6",
+      "fen": "r4r1k/pp3pp1/8/2pNp1QP/4P3/3PK3/P1q3P1/5R2 b - - 0 22",
+      "first_move": "c5c4",
       "solution_moves": [
-        "f3f2",
-        "g1g2",
-        "f2f1q",
-        "g2f1",
-        "h5g3",
-        "f1g2",
-        "g3e4"
+        "h5h6",
+        "c2d3",
+        "e3f2",
+        "d3f1",
+        "f2f1"
       ]
     }
   },
@@ -8050,14 +8050,16 @@
       483,
       1484
     ],
-    "position": 97,
+    "position": 98,
     "last_puzzle": {
-      "fen": "r1bqkbnr/pp2pppp/8/3p4/3n1P2/3B1N2/PPP3PP/RNBQK2R b KQkq - 1 6",
-      "first_move": "c8g4",
+      "fen": "8/8/P1n5/3pk1p1/7p/1N2K2P/6P1/8 w - - 1 46",
+      "first_move": "b3a5",
       "solution_moves": [
-        "f3d4",
-        "g4d1",
-        "d3b5"
+        "c6a5",
+        "a6a7",
+        "a5c4",
+        "e3f2",
+        "c4b6"
       ]
     }
   },
@@ -10064,14 +10066,16 @@
       1756,
       449
     ],
-    "position": 97,
+    "position": 98,
     "last_puzzle": {
-      "fen": "8/pp4p1/4p1p1/k1p1P1B1/PbP2P2/3KP3/8/8 b - - 0 34",
-      "first_move": "a5a4",
+      "fen": "rnb1k2r/pp4pp/2pq1n2/3p4/3Pp3/1QN5/PP3PPP/1K1R1BNR b kq - 3 10",
+      "first_move": "c8e6",
       "solution_moves": [
-        "e3e4",
-        "b7b5",
-        "f4f5"
+        "b3b7",
+        "e8g8",
+        "b7a8",
+        "d6c7",
+        "d1c1"
       ]
     }
   }
