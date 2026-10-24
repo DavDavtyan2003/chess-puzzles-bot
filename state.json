@@ -4018,16 +4018,14 @@
       1434,
       893
     ],
-    "position": 110,
+    "position": 111,
     "last_puzzle": {
-      "fen": "8/8/3R4/1p3r2/1Pk5/8/2K5/8 w - - 3 53",
-      "first_move": "d6d3",
+      "fen": "rnb1r1k1/ppp2ppp/8/3nN3/2B5/2B5/PPP2PPP/R3K2R b KQ - 1 12",
+      "first_move": "d5c3",
       "solution_moves": [
-        "f5f2",
-        "d3d2",
-        "f2d2",
-        "c2d2",
-        "c4b4"
+        "c4f7",
+        "g8f8",
+        "f7e8"
       ]
     }
   },
@@ -6034,14 +6032,14 @@
       812,
       827
     ],
-    "position": 110,
+    "position": 111,
     "last_puzzle": {
-      "fen": "2k5/ppp2p2/7p/n3N2r/Q5r1/2P1PKB1/PP1nBP1q/R4R2 w - - 4 26",
-      "first_move": "f3g4",
+      "fen": "8/p2k4/3Pb2p/6pK/4N3/r5P1/8/2R5 b - - 1 33",
+      "first_move": "a3a4",
       "solution_moves": [
-        "h2h3",
-        "g4f4",
-        "h5f5"
+        "e4c5",
+        "d7d6",
+        "c5a4"
       ]
     }
   },
@@ -8048,16 +8046,20 @@
       483,
       1484
     ],
-    "position": 110,
+    "position": 111,
     "last_puzzle": {
-      "fen": "2r3k1/3R1pb1/p3p1p1/1p5p/1P3P2/q1p3RP/2Q3PK/8 b - - 1 32",
-      "first_move": "a3b4",
+      "fen": "8/5ppp/8/5PPP/1k6/p7/2K5/8 b - - 0 41",
+      "first_move": "b4c4",
       "solution_moves": [
-        "d7f7",
-        "g8f7",
-        "c2g6",
-        "f7f8",
-        "g6g7"
+        "g5g6",
+        "h7g6",
+        "f5f6",
+        "a3a2",
+        "c2b2",
+        "a2a1q",
+        "b2a1",
+        "g7f6",
+        "h5h6"
       ]
     }
   },
@@ -10064,18 +10066,14 @@
       1756,
       449
     ],
-    "position": 110,
+    "position": 111,
     "last_puzzle": {
-      "fen": "r2qr1k1/pp3pp1/2p1n2p/3pP2Q/7b/2N1P3/PP4PP/1BR2RK1 b - - 1 18",
-      "first_move": "h4g5",
+      "fen": "5k2/2p5/5pP1/5N2/pP1P2PP/r7/6K1/8 b - - 0 45",
+      "first_move": "a3b3",
       "solution_moves": [
-        "h5f7",
-        "g8h8",
-        "f7g6",
-        "g5e3",
-        "g1h1",
-        "e6g5",
-        "f1f7"
+        "h4h5",
+        "b3b2",
+        "g2f3"
       ]
     }
   }
