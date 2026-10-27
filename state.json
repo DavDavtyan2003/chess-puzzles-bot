@@ -4018,14 +4018,14 @@
       1434,
       893
     ],
-    "position": 113,
+    "position": 114,
     "last_puzzle": {
-      "fen": "r4rk1/4bpp1/2Q1p2p/2Np4/1P1P4/2P2N2/5PPP/q3R1K1 w - - 0 22",
-      "first_move": "e1a1",
+      "fen": "6k1/r1qr2p1/4p1Np/1p2Pp1P/1Qp2P2/p7/4B1K1/8 b - - 1 45",
+      "first_move": "a3a2",
       "solution_moves": [
-        "a8a1",
-        "f3e1",
-        "a1e1"
+        "b4f8",
+        "g8h7",
+        "f8h8"
       ]
     }
   },
@@ -6032,14 +6032,14 @@
       812,
       827
     ],
-    "position": 113,
+    "position": 114,
     "last_puzzle": {
-      "fen": "r2qr1k1/2p1np2/1p3p1p/1P2N3/p2PP1QP/P2B4/5P1P/R5K1 b - - 1 29",
-      "first_move": "g8f8",
+      "fen": "8/8/4R3/4bp2/4k1p1/2PN4/2r1KP2/8 w - - 7 46",
+      "first_move": "e2d1",
       "solution_moves": [
-        "e5d7",
-        "d8d7",
-        "g4d7"
+        "e4d3",
+        "e6e5",
+        "c2f2"
       ]
     }
   },
@@ -8046,18 +8046,14 @@
       483,
       1484
     ],
-    "position": 113,
+    "position": 114,
     "last_puzzle": {
-      "fen": "7r/pppk1p2/8/6q1/2NPP3/PP1P1n2/1BQ4p/5R1K w - - 0 29",
-      "first_move": "c2g2",
+      "fen": "2kr2nr/Qpp1qppp/3b4/8/6b1/2P2nP1/PP2PPBP/RNB2K1R b - - 1 10",
+      "first_move": "d6c5",
       "solution_moves": [
-        "g5g2",
-        "h1g2",
-        "h8g8",
-        "g2f3",
-        "g8g1",
-        "f1g1",
-        "h2g1q"
+        "a7a8",
+        "c8d7",
+        "a8a4"
       ]
     }
   },
@@ -10064,18 +10060,16 @@
       1756,
       449
     ],
-    "position": 113,
+    "position": 114,
     "last_puzzle": {
-      "fen": "rkbr4/3n1R1p/6p1/1QNn2N1/1p1q4/3P4/PPp3PP/R6K b - - 2 25",
-      "first_move": "d5b6",
+      "fen": "r3k2r/p1pp1ppp/1pn1pq2/8/1b1P4/P1NBBb2/1PPQNP1P/2KR4 b kq - 0 11",
+      "first_move": "b4a5",
       "solution_moves": [
-        "f7d7",
-        "d8d7",
-        "b5b6",
-        "d7b7",
-        "c5a6",
-        "a8a6",
-        "b6d4"
+        "e3g5",
+        "a5c3",
+        "b2c3",
+        "f3e2",
+        "g5f6"
       ]
     }
   }
