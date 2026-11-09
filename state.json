@@ -4018,14 +4018,14 @@
       1434,
       893
     ],
-    "position": 125,
+    "position": 126,
     "last_puzzle": {
-      "fen": "2r3k1/1p2bpp1/7p/1Q2p3/8/PqN2P2/1P4PP/3r1RK1 w - - 0 29",
-      "first_move": "b5b3",
+      "fen": "r1b1kb1r/p1q2ppp/4p3/3pPn2/3B4/5N2/PP3PPP/RN1QR1K1 b kq - 2 12",
+      "first_move": "f8b4",
       "solution_moves": [
-        "e7c5",
-        "g1h1",
-        "d1f1"
+        "d1a4",
+        "c8d7",
+        "a4b4"
       ]
     }
   },
@@ -6032,14 +6032,16 @@
       812,
       827
     ],
-    "position": 125,
+    "position": 126,
     "last_puzzle": {
-      "fen": "2r2rk1/1p1qbpp1/p1n1pn1p/3p4/3P3B/3B4/PPPQNPPP/R4RK1 b - - 3 14",
-      "first_move": "c6b4",
+      "fen": "5r2/ppp1k3/7p/5ppP/5q2/1QP2P2/PP1r1NP1/4R1K1 b - - 1 26",
+      "first_move": "e7d7",
       "solution_moves": [
-        "h4f6",
-        "b4d3",
-        "f6e7"
+        "b3e6",
+        "d7d8",
+        "e6e7",
+        "d8c8",
+        "e7f8"
       ]
     }
   },
@@ -8046,14 +8048,16 @@
       483,
       1484
     ],
-    "position": 125,
+    "position": 126,
     "last_puzzle": {
-      "fen": "8/8/8/p3K3/1p1p4/1P1Nk3/P7/8 w - - 5 69",
-      "first_move": "d3c5",
+      "fen": "r1b1r1k1/pp4b1/1qp1p1p1/5p2/1PB4R/5Q2/P1PP1PP1/4R1K1 b - - 0 20",
+      "first_move": "b6b4",
       "solution_moves": [
-        "d4d3",
-        "c5a4",
-        "e3d2"
+        "e1e6",
+        "c8e6",
+        "c4e6",
+        "e8e6",
+        "h4b4"
       ]
     }
   },
@@ -10060,16 +10064,16 @@
       1756,
       449
     ],
-    "position": 125,
+    "position": 126,
     "last_puzzle": {
-      "fen": "r4rk1/5ppp/pb1qpn2/2pp4/P2n4/2NBBP1P/2PQ1PP1/RR4K1 b - - 0 16",
-      "first_move": "c5c4",
+      "fen": "4r1k1/1p2q3/1Rp2n1Q/3p1B2/3P4/2P4P/P1P2PPK/8 w - - 5 32",
+      "first_move": "a2a4",
       "solution_moves": [
-        "b1b6",
-        "d6b6",
-        "e3d4",
-        "b6c7",
-        "d4f6"
+        "e7d6",
+        "g2g3",
+        "f6g4",
+        "f5g4",
+        "d6h6"
       ]
     }
   }
