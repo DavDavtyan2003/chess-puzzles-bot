@@ -4018,20 +4018,16 @@
       1434,
       893
     ],
-    "position": 135,
+    "position": 136,
     "last_puzzle": {
-      "fen": "3r2k1/1q4pp/p1b1r3/1p2p3/2P2Q2/P1B5/B1P3PP/4R1RK w - - 0 29",
-      "first_move": "e1e5",
+      "fen": "k2r4/p2q1p2/2R5/8/P3P1n1/8/6PP/2R1Q1K1 w - - 1 35",
+      "first_move": "e4e5",
       "solution_moves": [
-        "c6g2",
-        "g1g2",
-        "d8d1",
-        "c3e1",
-        "d1e1",
-        "e5e1",
-        "e6e1",
-        "f4f1",
-        "e1f1"
+        "d7d4",
+        "g1h1",
+        "g4f2",
+        "e1f2",
+        "d4f2"
       ]
     }
   },
@@ -6038,14 +6034,14 @@
       812,
       827
     ],
-    "position": 135,
+    "position": 136,
     "last_puzzle": {
-      "fen": "2b1r2k/6pp/p1p5/p3n3/P2q1P2/BQ4P1/P6P/1R2R1K1 w - - 1 28",
-      "first_move": "b3e3",
+      "fen": "r1bq1rk1/1pp2pb1/p2p1n1p/3Pp1p1/2P1Pn2/2N3B1/PP2NPPP/1BRQ1RK1 w - - 6 14",
+      "first_move": "e2f4",
       "solution_moves": [
-        "e5f3",
-        "g1f2",
-        "e8e3"
+        "e5f4",
+        "g3f4",
+        "g5f4"
       ]
     }
   },
@@ -8052,18 +8048,16 @@
       483,
       1484
     ],
-    "position": 135,
+    "position": 136,
     "last_puzzle": {
-      "fen": "r1b3Q1/ppppk3/3r1q2/6p1/2B5/2PnP1NR/PP4P1/RNB1K3 w Q - 0 20",
-      "first_move": "e1d2",
+      "fen": "3r4/4Q2p/6pk/r7/3q1P2/1P6/P1P5/1KR5 b - - 0 45",
+      "first_move": "a5f5",
       "solution_moves": [
-        "f6f2",
-        "g3e2",
-        "d3b4",
-        "c4d5",
-        "d6d5",
-        "g8d5",
-        "b4d5"
+        "c1h1",
+        "f5h5",
+        "h1h5",
+        "g6h5",
+        "e7g5"
       ]
     }
   },
@@ -10070,14 +10064,16 @@
       1756,
       449
     ],
-    "position": 135,
+    "position": 136,
     "last_puzzle": {
-      "fen": "5Q2/pp1b4/2p4k/2PpB1q1/1P1Pp1n1/P6r/6RP/6KB b - - 8 42",
-      "first_move": "h6h7",
+      "fen": "5rk1/p2Bbpp1/Q4n1p/3p4/1q5B/2r1P3/PP3PPP/R3K2R w KQ - 0 18",
+      "first_move": "h4f6",
       "solution_moves": [
-        "f8f7",
-        "h7h6",
-        "e5f4"
+        "c3c1",
+        "e1e2",
+        "c1c2",
+        "e2f3",
+        "b4e4"
       ]
     }
   }
